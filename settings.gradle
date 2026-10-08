@@ -1,0 +1,19 @@
+rootProject.name = 'java-interviews'
+
+include(
+    'q01-spsc-ring',
+    'q02-order-pool',
+    'q03-false-sharing',
+    'q04-safe-publish',
+    'q05-wait-strategy',
+    'q06-binary-codec',
+    'q07-tick-math',
+    'q08-limit-book',
+    'q09-pretrade-risk',
+    'q10-symbol-intern',
+    'q11-latency-histogram',
+    'q12-order-fsm',
+    'q13-quote-coalesce',
+    'q14-outbound-batch',
+    'q15-fix-resend'
+)
